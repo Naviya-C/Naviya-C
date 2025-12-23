@@ -1,6 +1,6 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 <h1 align="center">Hi 👋, I'm Naveen Chethiya</h1>
-<h3 align="center">Machine Learning Engineer | Full-Stack ML Developer | AI Systems Builder</h3>
+<h3 align="center">Machine Learning Engineer | AI Systems Builder</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=ai&logoColor=white"/>
@@ -14,12 +14,12 @@
 
 ## 🧠 About Me
 
-I’m a **Machine Learning & Software Engineering student** focused on building **real-world, production-ready AI systems**.
+I’m a **Machine Learning ** focused on building **real-world, production-ready AI systems**.
 
 I don’t stop at training models — I design **complete ML solutions**:
-data pipelines → models → APIs → databases → applications.
+data pipelines → models → APIs → databases.
 
-My interests lie in **Applied ML, Full-Stack ML Engineering, and AI system design**, with strong attention to **architecture, scalability, and clean code**.
+My interests lie in **Applied ML, ML Engineering, and AI system design**, with strong attention to **architecture, scalability, and clean code**.
 
 ---
 
@@ -30,7 +30,7 @@ My interests lie in **Applied ML, Full-Stack ML Engineering, and AI system desig
 ⚙️ **Pipeline & microservice-based ML systems**  
 🌐 ML integration with **FastAPI backends**  
 📊 AI for **Finance, Travel & Business intelligence**  
-🎯 Becoming a **Full-Stack / Applied ML Engineer**
+🎯 Becoming a **Applied ML Engineer**
 
 ---
 
@@ -41,7 +41,6 @@ My interests lie in **Applied ML, Full-Stack ML Engineering, and AI system desig
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
 </p>
 
 ### 🤖 Machine Learning
@@ -107,14 +106,6 @@ My interests lie in **Applied ML, Full-Stack ML Engineering, and AI system desig
 
 ---
 
-### 🌍 Travel Management Web App (AI-Integrated)
-✔ Image recognition for attractions  
-✔ Dynamic pricing (planned)  
-✔ Fraud detection concepts  
-✔ ML model + backend integration  
-
----
-
 ### 👁️ Computer Vision Projects
 ✔ Real-time color detection  
 ✔ Camera frame processing  
@@ -134,7 +125,7 @@ My interests lie in **Applied ML, Full-Stack ML Engineering, and AI system desig
 
 ## 🎯 Career Vision
 
-✔ Become a **Full-Stack Machine Learning Engineer**  
+✔ Become a **Machine Learning Engineer**  
 ✔ Build **industry-grade AI systems**  
 ✔ Solve **real business problems using AI**  
 ✔ Work on **finance & AI-driven products**
@@ -155,10 +146,8 @@ I prioritize:
 
 ## 🤝 Connect & Collaborate
 
-📌 Open to **internships, collaborations & AI projects**  
+📌 Open to **collaborations & AI projects**  
 📌 Passionate about **applied ML & system design**  
 📌 Constantly learning, building, and improving  
 
 ---
-
-⭐ If you like my work, consider **starring the repositories** ⭐
