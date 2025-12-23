@@ -1,155 +1,164 @@
-# 👋 Hi, I’m Naveen Chethiya  
+<!-- ===================== PROFILE HEADER ===================== -->
+<h1 align="center">Hi 👋, I'm Naveen Chethiya</h1>
+<h3 align="center">Machine Learning Engineer | Full-Stack ML Developer | AI Systems Builder</h3>
 
-🚀 **Machine Learning Engineer | Full-Stack ML Developer | AI Systems Builder**
-
-I’m a passionate **Machine Learning & Software Engineering student** focused on building **real-world, end-to-end AI systems** — not just models, but **production-ready applications** that include data pipelines, backend APIs, databases, and user interfaces.
-
-My work spans **Machine Learning, Deep Learning, NLP, Computer Vision, and Full-Stack Development**, with a strong emphasis on **clean architecture, scalability, and real data**.
-
----
-
-## 🧠 What I’m Currently Focused On
-
-- 🔹 Building **AI-driven web & desktop applications**
-- 🔹 Developing **custom ML models** (no black-box APIs)
-- 🔹 Designing **ML pipelines & microservices**
-- 🔹 Integrating ML models with **FastAPI / Python backends**
-- 🔹 Applying ML to **Finance, Travel, and Business domains**
-- 🔹 Moving toward **Full-Stack ML Engineer / Applied ML Engineer** roles
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-7B2CBF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-0DB7ED?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 About Me
 
-### 💻 Programming & Core
-- **Python**, **C**, **C++**, **C#**
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms (DSA)
+I’m a **Machine Learning & Software Engineering student** focused on building **real-world, production-ready AI systems**.
 
-### 🤖 Machine Learning & AI
-- Supervised & Unsupervised Learning
-- Feature Engineering & Model Evaluation
-- Scikit-learn, NumPy, Pandas
-- Model Serialization (Pickle)
-- Time-Series & Prediction Models
+I don’t stop at training models — I design **complete ML solutions**:
+data pipelines → models → APIs → databases → applications.
 
-### 🧠 Deep Learning
-- Neural Networks
-- Convolutional Neural Networks (CNNs)
-- TensorFlow, Keras
-- Computer Vision with OpenCV
-- Object Detection (YOLO – concepts & implementation)
-
-### 🗣️ Natural Language Processing (NLP)
-- Text Preprocessing Pipelines
-- spaCy, NLTK
-- Rule-based → ML-based Chatbots
-- Intent Classification & NLP Pipelines
-- Document Analysis & Summarization
-
-### 🌐 Backend & Full-Stack
-- FastAPI
-- REST APIs
-- Authentication & User Management
-- PostgreSQL, Supabase
-- Backend ↔ ML Model Integration
-
-### 🧩 Software Architecture
-- Modular Project Structures
-- Pipeline-based ML Systems
-- Microservices Concepts
-- Agile / SDLC Practices
-- Git & GitHub (A–Z)
+My interests lie in **Applied ML, Full-Stack ML Engineering, and AI system design**, with strong attention to **architecture, scalability, and clean code**.
 
 ---
 
-## 📌 Major Projects
+## 🔥 Current Focus Areas
 
-### 🔹 Project-Finance (AI Web Application)
-**AI-driven financial report analysis platform**
-
-- Upload financial reports (PDF, DOC)
-- Extract text, tables, and key metrics
-- Generate summaries & insights
-- Visualize financial data
-- Predict 3-year company performance
-- Built with **custom ML models**
-- Backend: **FastAPI**
-- Architecture: **Pipeline + Microservices**
+🚀 End-to-end **AI applications**  
+🧩 **Custom ML models** (no black-box APIs)  
+⚙️ **Pipeline & microservice-based ML systems**  
+🌐 ML integration with **FastAPI backends**  
+📊 AI for **Finance, Travel & Business intelligence**  
+🎯 Becoming a **Full-Stack / Applied ML Engineer**
 
 ---
 
-### 🔹 Intelligent Chatbot System
-**From rule-based → ML-powered chatbot**
+## 🛠️ Tech Stack
 
-- Domain-specific chatbot
-- Intent detection using ML
-- Scalable backend architecture
-- Designed to later support general Q&A
-- NLP pipelines with spaCy
+### 💻 Programming
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+</p>
+
+### 🤖 Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+
+### 🧠 Deep Learning & CV
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+</p>
+
+### 🗣️ NLP
+<p>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NLTK-85A9C8?style=flat-square"/>
+</p>
+
+### 🌐 Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
 
 ---
 
-### 🔹 Smart Personal Finance Manager (C# Desktop App)
-- Budget tracking & financial analysis
-- AI-assisted insights
-- PostgreSQL database
-- Team-based RAD project (70-day timeline)
+## 🚀 Featured Projects
+
+### 📊 Project-Finance (AI Web Platform)
+**AI-driven financial report analysis system**
+
+✔ Upload financial documents (PDF / DOC)  
+✔ Extract text, tables & numerical data  
+✔ Generate summaries & insights  
+✔ Interactive visualizations  
+✔ 3-year performance prediction  
+✔ Custom ML models (no external APIs)  
+
+**Tech:** FastAPI · ML Pipelines · PostgreSQL · Python  
 
 ---
 
-### 🔹 Travel Management Web App (AI-Integrated)
-- Image recognition for attractions
-- Dynamic pricing engine (planned)
-- Fraud detection concepts
-- ML model training + backend integration
+### 💬 Intelligent Chatbot System
+**Rule-based → ML-powered chatbot**
+
+✔ Domain-specific intelligence  
+✔ Intent classification using ML  
+✔ NLP pipelines with spaCy  
+✔ Scalable backend architecture  
 
 ---
 
-### 🔹 Computer Vision Projects
-- Real-time color detection
-- Camera input processing
-- Object detection concepts (YOLO)
-- OpenCV + NumPy
+### 💰 Smart Personal Finance Manager (Desktop App)
+✔ Budget & transaction analysis  
+✔ AI-assisted insights  
+✔ PostgreSQL database  
+✔ Team-based RAD project  
+
+---
+
+### 🌍 Travel Management Web App (AI-Integrated)
+✔ Image recognition for attractions  
+✔ Dynamic pricing (planned)  
+✔ Fraud detection concepts  
+✔ ML model + backend integration  
+
+---
+
+### 👁️ Computer Vision Projects
+✔ Real-time color detection  
+✔ Camera frame processing  
+✔ Object detection concepts (YOLO)  
+✔ OpenCV + NumPy  
 
 ---
 
 ## 📚 Learning & Certifications
 
-- ✅ **DeepLearning.AI – Machine Learning Specialization (Andrew Ng)**
-- 📘 Advanced CNN & Deep Learning concepts
-- 📘 Full-Stack ML Engineering roadmap (ongoing)
-- 📘 MLOps & Deployment (learning)
+🎓 **DeepLearning.AI – Machine Learning Specialization (Andrew Ng)**  
+📘 CNNs & Deep Learning (hands-on)  
+📘 Full-Stack ML Engineering roadmap  
+📘 MLOps & deployment (ongoing)
 
 ---
 
-## 🎯 Goals
+## 🎯 Career Vision
 
-- Become a **Full-Stack Machine Learning Engineer**
-- Build **industry-grade AI systems**
-- Gain **hands-on, production-level experience**
-- Work on **finance, AI products, and real business problems**
-
----
-
-## 📂 Repository Philosophy
-
-Most repositories follow:
-- Clean folder structures
-- Separation of **data / models / pipelines / APIs**
-- Readable & maintainable code
-- Practical, real-world use cases
-
-> I value **understanding systems deeply** rather than using shortcuts.
+✔ Become a **Full-Stack Machine Learning Engineer**  
+✔ Build **industry-grade AI systems**  
+✔ Solve **real business problems using AI**  
+✔ Work on **finance & AI-driven products**
 
 ---
 
-## 🤝 Let’s Connect
+## 📂 Engineering Philosophy
 
-- 💼 Open to **internships, collaborations, and ML projects**
-- 🧠 Always interested in **real-world AI problems**
-- 🌱 Continuously learning & improving
+> “Models are only useful when they work in real systems.”
+
+I prioritize:
+- Clean architectures
+- Scalable ML pipelines
+- Production-ready code
+- Realistic data & constraints
 
 ---
 
-⭐ **If you find my work useful, feel free to star the repositories!**
+## 🤝 Connect & Collaborate
+
+📌 Open to **internships, collaborations & AI projects**  
+📌 Passionate about **applied ML & system design**  
+📌 Constantly learning, building, and improving  
+
+---
+
+⭐ If you like my work, consider **starring the repositories** ⭐
