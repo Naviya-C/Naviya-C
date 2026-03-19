@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=ai&logoColor=white"/>
-  <img src="https://shields.io" alt="PyTorch Badge"/>
   <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=spacy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-0DB7ED?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -14,7 +13,7 @@
 
 ## 🧠 About Me
 
-I’m a **Machine Learning ** focused on building **real-world, production-ready AI systems**.
+I’m a **Machine Learning Engineer** focused on building **real-world, production-ready AI systems**.
 
 I don’t stop at training models — I design **complete ML solutions**:
 data pipelines → models → APIs → databases.
@@ -30,7 +29,7 @@ My interests lie in **Applied ML, ML Engineering, and AI system design**, with s
 ⚙️ **Pipeline & microservice-based ML systems**  
 🌐 ML integration with **FastAPI backends**  
 📊 AI for **Finance, Travel & Business intelligence**  
-🎯 Becoming a **Applied ML Engineer**
+🎯 Becoming an **Applied ML Engineer**
 
 ---
 
@@ -52,7 +51,7 @@ My interests lie in **Applied ML, ML Engineering, and AI system design**, with s
 
 ### 🧠 Deep Learning & CV
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 </p>
@@ -68,49 +67,46 @@ My interests lie in **Applied ML, ML Engineering, and AI system design**, with s
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20VM-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 Project-Finance (AI Web Platform)
-**AI-driven financial report analysis system**
-
-✔ Upload financial documents (PDF / DOC)  
-✔ Extract text, tables & numerical data  
-✔ Generate summaries & insights  
-✔ Interactive visualizations  
-✔ 3-year performance prediction  
-✔ Custom ML models (no external APIs)  
-
-**Tech:** FastAPI · ML Pipelines · PostgreSQL · Python  
+### 🚗 RAG-Based Car Selling Chatbot
+✔ Retrieval-Augmented Generation system  
+✔ Uses **Groq LLaMA** for inference  
+✔ Embeddings: **all-MiniLM-L6-v2**  
+✔ Vector search + structured filtering  
+✔ Real-time car recommendation system  
 
 ---
 
-### 💬 Intelligent Chatbot System
-**Rule-based → ML-powered chatbot**
-
-✔ Domain-specific intelligence  
-✔ Intent classification using ML  
-✔ NLP pipelines with spaCy  
-✔ Scalable backend architecture  
+### 💊 Pill Detection & Identification System
+✔ YOLOv11m for pill detection  
+✔ Image-based inference pipeline  
+✔ Semantic search over vector database  
+✔ Matches pills using embedding similarity  
 
 ---
 
-### 💰 Smart Personal Finance Manager (Desktop App)
-✔ Budget & transaction analysis  
-✔ AI-assisted insights  
-✔ PostgreSQL database  
-✔ Team-based RAD project  
+### 📊 LLaMA-2 Financial Q&A Fine-Tuning
+✔ Model: **meta-llama/Llama-2-7b-hf**  
+✔ Dataset: **FinGPT/fingpt-fiqa_qa**  
+✔ Instruction tuning (QLoRA / LoRA)  
+✔ Domain-specific financial assistant  
 
 ---
 
-### 👁️ Computer Vision Projects
-✔ Real-time color detection  
-✔ Camera frame processing  
-✔ Object detection concepts (YOLO)  
-✔ OpenCV + NumPy  
+### 📚 Foundational ML Projects (Kaggle)
+
+✔ Titanic Survival Prediction  
+✔ House Price Prediction  
+✔ Spaceship Titanic Classification  
+
+> Focused on building strong ML fundamentals: preprocessing, feature engineering, model evaluation
 
 ---
 
@@ -137,10 +133,10 @@ My interests lie in **Applied ML, ML Engineering, and AI system design**, with s
 > “Models are only useful when they work in real systems.”
 
 I prioritize:
-- Clean architectures
-- Scalable ML pipelines
-- Production-ready code
-- Realistic data & constraints
+- Clean architectures  
+- Scalable ML pipelines  
+- Production-ready code  
+- Realistic data & constraints  
 
 ---
 
