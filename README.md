@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=ai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-7B2CBF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://shields.io" alt="PyTorch Badge"/>
   <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=spacy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-0DB7ED?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
