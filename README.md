@@ -52,7 +52,6 @@ My interests lie in **Applied ML, ML Engineering, and AI system design**, with s
 ### 🧠 Deep Learning & CV
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 </p>
 
@@ -70,43 +69,6 @@ My interests lie in **Applied ML, ML Engineering, and AI system design**, with s
   <img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure%20VM-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🚗 RAG-Based Car Selling Chatbot
-✔ Retrieval-Augmented Generation system  
-✔ Uses **Groq LLaMA** for inference  
-✔ Embeddings: **all-MiniLM-L6-v2**  
-✔ Vector search + structured filtering  
-✔ Real-time car recommendation system  
-
----
-
-### 💊 Pill Detection & Identification System
-✔ YOLOv11m for pill detection  
-✔ Image-based inference pipeline  
-✔ Semantic search over vector database  
-✔ Matches pills using embedding similarity  
-
----
-
-### 📊 LLaMA-2 Financial Q&A Fine-Tuning
-✔ Model: **meta-llama/Llama-2-7b-hf**  
-✔ Dataset: **FinGPT/fingpt-fiqa_qa**  
-✔ Instruction tuning (QLoRA / LoRA)  
-✔ Domain-specific financial assistant  
-
----
-
-### 📚 Foundational ML Projects (Kaggle)
-
-✔ Titanic Survival Prediction  
-✔ House Price Prediction  
-✔ Spaceship Titanic Classification  
-
-> Focused on building strong ML fundamentals: preprocessing, feature engineering, model evaluation
 
 ---
 
