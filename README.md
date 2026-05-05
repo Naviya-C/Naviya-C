@@ -84,7 +84,6 @@ class NaveenChethiya:
 ### 🧠 Deep Learning & Computer Vision
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 </p>
@@ -102,6 +101,7 @@ class NaveenChethiya:
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -133,74 +133,6 @@ class NaveenChethiya:
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naviya-C&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
-</div>
-
----
-
-## 📂 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Naviya-C/Real-Estate-Price-Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naviya-C&repo=Real-Estate-Price-Prediction&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Naviya-C/medical_Pill_Identifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naviya-C&repo=medical_Pill_Identifier&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Naviya-C/chatbot_AI_car_selling">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naviya-C&repo=chatbot_AI_car_selling&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Naviya-C/AI-News-Aggregator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naviya-C&repo=AI-News-Aggregator&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Naviya-C/Fruit_classification">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naviya-C&repo=Fruit_classification&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Naviya-C/Smart-Auto-Hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naviya-C&repo=Smart-Auto-Hub&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
----
-
-## 🎯 Career Vision
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    🚀 NAVEEN'S ROADMAP                          │
-├─────────────────────────────────────────────────────────────────┤
-│  ✅  Become a Machine Learning Engineer                         │
-│  ✅  Build industry-grade AI systems                            │
-│  ✅  Solve real business problems using AI                      │
-│  ✅  Work on finance & AI-driven products                       │
-│  🔄  MLOps & deployment mastery (in progress)                  │
-│  🔄  Contributing to open-source AI projects                   │
-│  🎯  Landing Applied ML Engineer role at a top company         │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📚 Learning & Certifications
-
-<div align="center">
-
-| 📜 Course / Cert | 🏫 Provider | 📊 Status |
-|-----------------|-------------|-----------|
-| Machine Learning Specialization | DeepLearning.AI (Andrew Ng) | 🟡 In Progress |
-| CNNs & Deep Learning | Hands-on Practice | ✅ Complete |
-| Full-Stack ML Engineering | Self-Directed Roadmap | 🟡 In Progress |
-| MLOps & Deployment | Online Courses | 🟡 Ongoing |
-
-</div>
-
----
-
 ## ⚡ Engineering Philosophy
 
 <div align="center">
@@ -216,25 +148,6 @@ class NaveenChethiya:
 - 📊 Realistic data & real-world constraints
 
 ---
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/naveen1225">
-  <img src="https://img.shields.io/badge/LinkedIn-Naveen%20Chethiya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Naviya-C">
-  <img src="https://img.shields.io/badge/GitHub-Naviya--C-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-📌 Open to **collaborations & AI projects**  
-📌 Passionate about **applied ML & system design**  
-📌 Based in **Kadawatha, Sri Lanka 🇱🇰** (UTC +05:30)
-
-</div>
 
 ---
 
