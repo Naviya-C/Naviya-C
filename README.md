@@ -3,17 +3,6 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naveen%20Chethiya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🤖+Machine+Learning+Engineer;🧠+AI+Systems+Builder;⚙️+End-to-End+ML+Pipeline+Designer;🌐+FastAPI+%2B+Deep+Learning+Enthusiast;🚀+Turning+Ideas+Into+Real+AI+Solutions" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Naviya-C&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Naviya-C?label=Followers&style=social" alt="GitHub Followers" />
-
 </div>
 
 ---
