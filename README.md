@@ -1,120 +1,116 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naveen%20Chethiya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=55&descSize=18" width="100%"/>
+Hi, I'm Naveen Chethiya 👋
+
+Computer Science Undergraduate · AI/ML · Backend Engineering
+
+Building intelligent, reliable software with a focus on AI engineering, RAG systems, and scalable backends.
+
+
+
 
 </div>
 
----
+👨‍💻 About Me
 
-## 🧠 About Me
+🎓 Third-year Computer Science undergraduate at the University of Ruhuna
 
-<img align="right" alt="AI Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+🤖 Interested in AI/ML, Generative AI, data science, and intelligent automation
 
-```python
-class NaveenChethiya:
-    name       = "Naveen Chethiya"
-    alias      = "Naviya-C"
-    location   = "Kadawatha, Sri Lanka 🇱🇰"
-    role       = "Machine Learning Engineer"
-    
-    focus = [
-        "End-to-End AI Applications",
-        "Custom ML Models (no black-box APIs)",
-        "ML Pipeline & Microservices",
-        "FastAPI + Deep Learning Systems",
-        "AI for Finance & Business Intelligence"
-    ]
-    
-    philosophy = "Models are only useful when they work in real systems."
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing 🚀")
-```
+🧠 Building production-oriented RAG, agentic AI, and computer-vision systems
 
-<br clear="right"/>
+⚙️ Enjoy designing secure APIs, distributed services, and data pipelines
 
----
+🌱 Currently strengthening my skills in AI engineering and scalable system design
 
-## 🚀 Current Focus Areas
+🤝 Open to internships and collaboration on meaningful AI and software projects
+
+🧰 Technology Stack
+
+Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,rust,ts,js,c" alt="Python, Go, Rust, TypeScript, JavaScript and C" />
+</p>
+
+AI, Machine Learning & Retrieval
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" alt="PyTorch, scikit-learn and OpenCV" />
+</p>
+
+LangGraph · LangChain · RAG · Qdrant · BGE-M3 · BM25 · RRF · YOLO · XGBoost
+
+Backend, Data & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,kafka,docker,gcp,azure,linux,git,github" alt="Backend, data and cloud technologies" />
+</p>
+
+REST · gRPC · PostgreSQL · Neo4j · Alembic · Kafka · Redis
+
+Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" alt="React, Vite, Tailwind CSS, HTML and CSS" />
+</p>
+
+🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Slashus</h3>
+      <p>A Sinhala educational AI tutor for learning from uploaded school textbooks.</p>
+      <p><strong>Highlights:</strong> Agentic RAG, hybrid retrieval, quiz generation, persistent memory, and a distributed service architecture.</p>
+      <p><code>LangGraph</code> <code>Go</code> <code>FastAPI</code> <code>Qdrant</code> <code>Kafka</code> <code>React</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔤 Piliwela</h3>
+      <p>A high-performance Python package for converting legacy Sinhala fonts into Unicode.</p>
+      <p><strong>Highlights:</strong> Font-metadata-aware span conversion with a Rust core exposed through PyO3.</p>
+      <p><code>Python</code> <code>Rust</code> <code>PyO3</code> <code>Document Processing</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💊 Pill Detection</h3>
+      <p>A real-time pharmaceutical pill detection system trained using YOLOv11.</p>
+      <p><strong>Highlights:</strong> Achieved approximately 0.995 mAP50 with an interactive Gradio interface.</p>
+      <p><a href="https://huggingface.co/Naviya-C/pill-detection">View on Hugging Face →</a></p>
+      <p><code>YOLOv11</code> <code>PyTorch</code> <code>OpenCV</code> <code>Gradio</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚘 Smart Auto Hub</h3>
+      <p>A vehicle marketplace with an AI assistant for finding cars using natural-language queries.</p>
+      <p><strong>Highlights:</strong> Intent classification, structured filtering, vector retrieval, and LLM-assisted responses.</p>
+      <p><a href="https://github.com/Naviya-C/Smart-Auto-Hub">View Repository →</a></p>
+      <p><code>Next.js</code> <code>FastAPI</code> <code>Azure SQL</code> <code>RAG</code></p>
+    </td>
+  </tr>
+</table>
+
+📊 GitHub Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Naviya-C&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Naviya-C&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Naviya-C&show_icons=true&hide_border=true&rank_icon=github" alt="Naveen's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Naviya-C&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Naviya-C&layout=compact&hide_border=true&theme=default&langs_count=8" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naviya-C&layout=compact&hide_border=true&langs_count=8" alt="Most-used languages" />
+  </picture>
+</div>
 
 <div align="center">
 
-| 🎯 Area | 📌 Details |
-|---------|-----------|
-| 🤖 AI Applications | End-to-end production-ready AI systems |
-| 🧩 Custom ML Models | No black-box APIs — built from scratch |
-| ⚙️ ML Engineering | Pipelines, microservices, scalable design |
-| 🌐 Backend Integration | ML + FastAPI backends |
-| 📊 Domain Expertise | Finance, Travel & Business Intelligence |
-| 🎓 Learning Path | DeepLearning.AI · MLOps · Full-Stack ML |
+Let's build something meaningful.
+
+I'm open to opportunities involving AI/ML, data, backend engineering, and intelligent software systems.
+
+⭐ Explore my repositories and follow along as I keep learning and building.
 
 </div>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
-### 🤖 Machine Learning & Data Science
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### 🧠 Deep Learning & Computer Vision
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
-
-### 🗣️ NLP
-<p>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-85A9C8?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
-
-### 🌐 Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>
-</p>
-
-### ☁️ Cloud
-<p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
-
----
-
-
-## ⚡ Engineering Philosophy
-
-<div align="center">
-
-> *"Models are only useful when they work in real systems."*
-
-</div>
-
-**I prioritize:**
-- 🏗️ Clean, maintainable architectures
-- 🔄 Scalable ML pipelines
-- 📦 Production-ready code quality
-- 📊 Realistic data & real-world constraints
-
----
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
