@@ -1,10 +1,10 @@
 <div align="center">
 
-Hi, I'm Naveen Chethiya 👋
+# Hi, I'm Naveen Chethiya 👋
 
-Computer Science Undergraduate · AI/ML · Backend Engineering
+## Computer Science Undergraduate · AI/ML · Backend Engineering
 
-Building intelligent, reliable software with a focus on AI engineering, RAG systems, and scalable backends.
+## Building intelligent, reliable software with a focus on AI engineering, RAG systems, and scalable backends.
 
 
 
