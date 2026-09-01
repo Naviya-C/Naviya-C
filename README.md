@@ -96,7 +96,6 @@ Frontend
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Naviya-C&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Naviya-C&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Naviya-C&show_icons=true&hide_border=true&rank_icon=github" alt="Naveen's GitHub statistics" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Naviya-C&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
